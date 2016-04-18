@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1459813698 source:c:\users\saajan bariana\documents\c++ training\workingwithclasses\main.cpp
+	<iostream>
+	"Deconstructor.h"
+	"ConstantPractice.h"
+	"MemberInitializers.h"
+
+1459811274 c:\users\saajan bariana\documents\c++ training\workingwithclasses\include\deconstructor.h
+
+1459811792 c:\users\saajan bariana\documents\c++ training\workingwithclasses\include\constantpractice.h
+
+1459812652 source:c:\users\saajan bariana\documents\c++ training\workingwithclasses\src\constantpractice.cpp
+	"ConstantPractice.h"
+	<iostream>
+	<string>
+
+1459810758 source:c:\users\saajan bariana\documents\c++ training\workingwithclasses\src\deconstructor.cpp
+	"Deconstructor.h"
+	<iostream>
+
+1459813681 source:c:\users\saajan bariana\documents\c++ training\workingwithclasses\src\memberinitializers.cpp
+	"MemberInitializers.h"
+	<iostream>
+
+1459813681 c:\users\saajan bariana\documents\c++ training\workingwithclasses\include\memberinitializers.h
+
